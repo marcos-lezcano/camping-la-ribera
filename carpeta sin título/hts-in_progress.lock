@@ -1,7 +1,0 @@
-Mirror in progress since Fri, 28 Oct 2022 17:12:55 .. please wait!
-winhttrack https://campinglaribera.com.ar/ -O "/Users/marlezcano/websites/camp" -Y -%v 
-To pause the engine: create an empty file named 'hts-stop.lock'
-PID=20247
-UID=542585868
-GID=542585868
-START=1666987975
