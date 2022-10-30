@@ -1,0 +1,43 @@
+HTTrack3.49-2 launched on Fri, 28 Oct 2022 17:12:55 at https://campinglaribera.com.ar/
+(winhttrack https://campinglaribera.com.ar/ -O "/Users/marlezcano/websites/camp" -Y -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:15:11	Warning: 	Link s.w.org/ not scanned (follow robots meta tag)
+17:15:12	Error: 	"Method Not Allowed" (405) at link https://campinglaribera.com.ar/xmlrpc.php (from https://campinglaribera.com.ar/)
+17:22:32	Warning: 	Found for https://www.facebook.com/Camping-La-Ribera-Villa-Carlos-Paz--1678880472393394/
+17:22:32	Warning: 	File has moved from https://www.facebook.com/Camping-La-Ribera-Villa-Carlos-Paz--1678880472393394/ to https://www.facebook.com/lariberacamping/
+17:22:54	Warning: 	Link https://campinglaribera.com.ar/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+17:23:04	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link c0910266.ferozo.com/robots.txt (from https://campinglaribera.com.ar/)
+17:23:05	Warning: 	Retry after error -5 (Unable to get server's address: nodename nor servname provided, or not known) at link c0910266.ferozo.com/el-camping/ (from https://campinglaribera.com.ar/)
+17:33:23	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.valordigital.com.ar/robots.txt (from https://campinglaribera.com.ar/)
+17:33:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.valordigital.com.ar/ (from https://campinglaribera.com.ar/)
+17:33:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://valordigital.com.ar/img/logo-footer-blanco.png (from https://campinglaribera.com.ar/)
+17:34:38	Error: 	"error:00000005:lib(0):func(0):DH lib" (-5) after 2 retries at link https://qr.afip.gob.ar/robots.txt (from https://campinglaribera.com.ar/)
+17:34:38	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://qr.afip.gob.ar/?qr=rdmnHu7CKYTzUHuyJ6UDh,, (from https://campinglaribera.com.ar/)
+17:34:38	Error: 	"Forbidden" (403) at link https://campinglaribera.com.ar/wp-content/themes/enfold/framework/ (from https://campinglaribera.com.ar/)
+17:34:38	Error: 	"Bad Request" (400) at link https://campinglaribera.com.ar/wp-admin/admin-ajax.php (from https://campinglaribera.com.ar/)
+17:34:38	Warning: 	Moved Permanently for https://campinglaribera.com.ar/?p=9
+17:34:38	Warning: 	File has moved from https://campinglaribera.com.ar/?p=9 to https://campinglaribera.com.ar/quienes-somos/
+17:34:38	Warning: 	Moved Permanently for https://campinglaribera.com.ar/?p=14
+17:34:38	Warning: 	File has moved from https://campinglaribera.com.ar/?p=14 to https://campinglaribera.com.ar/el-camping/
+17:34:38	Warning: 	Moved Permanently for https://campinglaribera.com.ar/?p=155
+17:34:38	Warning: 	File has moved from https://campinglaribera.com.ar/?p=155 to https://campinglaribera.com.ar/balneario/
+17:34:38	Warning: 	Moved Permanently for https://campinglaribera.com.ar/?p=16
+17:34:38	Warning: 	File has moved from https://campinglaribera.com.ar/?p=16 to https://campinglaribera.com.ar/promociones/
+17:34:38	Warning: 	Moved Permanently for https://campinglaribera.com.ar/?p=18
+17:34:38	Warning: 	File has moved from https://campinglaribera.com.ar/?p=18 to https://campinglaribera.com.ar/reservas/
+22:40:55	Error: 	"Not Found" (404) at link https://www.instagram.com/campinglariberavcp/android-app://com.instagram.android/https/instagram.com/_u/campinglariberavcp/ (from https://www.instagram.com/campinglariberavcp/)
+22:40:55	Error: 	"Not Found" (404) at link https://www.instagram.com/campinglariberavcp/theaustralian.com.au (from https://www.instagram.com/campinglariberavcp/)
+22:40:55	Error: 	"Not Found" (404) at link https://www.instagram.com/campinglariberavcp/news.com.au (from https://www.instagram.com/campinglariberavcp/)
+22:40:55	Error: 	"Not Found" (404) at link https://www.instagram.com/campinglariberavcp/kollosche.com.au (from https://www.instagram.com/campinglariberavcp/)
+22:40:55	Error: 	"Not Found" (404) at link https://www.instagram.com/campinglariberavcp/awstrack.me (from https://www.instagram.com/campinglariberavcp/)
+22:40:55	Error: 	"Not Found" (404) at link https://www.instagram.com/campinglariberavcp/fiMkUb (from https://www.instagram.com/campinglariberavcp/)
+22:40:55	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link c0910266.ferozo.com/el-camping/ (from https://campinglaribera.com.ar/)
+22:40:56	Error: 	"Not Found" (404) at link fonts.googleapis.com/ (from https://www.costwatches.com/)
+22:43:19	Error: 	"Not Found" (404) at link https://www.costwatches.com/xmlrpc.php?rsd (from https://www.costwatches.com/)
+22:44:32	Warning: 	Found for https://www.costwatches.com/checkout/
+22:44:32	Warning: 	File has moved from https://www.costwatches.com/checkout/ to https://www.costwatches.com/cart/
